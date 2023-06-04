@@ -1,13 +1,12 @@
 # pearls valorant unlock all
 
-- **what is vkey?**
+- **what is pearls?**
 
-vkey is a server sided valorant unlock all tool developed using private methods which allow it to be completely undetected
+pearls is a server sided valorant unlock all tool developed using private methods which allow it to be completely undetected
 
-- **how does vkey work?**
+- **how does pearls pricing work?**
 
-vkey is an account based subscription
-in order to protect the privacy of our source code, we will only be providing it to users that have paid the invite fee
+pearls can either be one time or lifetime, with one time you unlock it on one account, with lifetime you can unlock it on unlimited accounts
 
 - **how does it stay undetected?**
 
