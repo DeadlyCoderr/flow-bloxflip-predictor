@@ -1,6 +1,4 @@
-![image](https://cdn.discordapp.com/attachments/1080557292384161822/1085798975203971083/4e15edbb2fb718ad9b2d627540d2008e.gif)
-
-# vkey valorant unlock all
+# pearls valorant unlock all
 
 - **what is vkey?**
 
@@ -21,13 +19,13 @@ once again we have used methods to make valorant believe you have unlocked all s
 
 -  **how do I buy and what are the prices?**
 
-Join discord.gg/vkey to see prices and please DM escrow#0001 to purchase
+Join discord.gg/pearls to see prices and please DM crym#0001 to purchase
 
 If your interested in buying DM me ->
 
-escrow#0001 - discord
-https://discord.gg/vkey
+crym#0001 - discord
+https://discord.gg/pearls
 
 # Creds
-escrow#0001
-https://discord.gg/vkey
+crym#0001
+https://discord.gg/pearls
