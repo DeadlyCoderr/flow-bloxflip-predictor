@@ -19,13 +19,9 @@ once again we have used methods to make valorant believe you have unlocked all s
 
 -  **how do I buy and what are the prices?**
 
-Join discord.gg/pearls to see prices and please DM crym#0001 to purchase
+Join discord.gg/pearls to see prices and open a ticket to purchase
 
 If your interested in buying DM me ->
 
 crym#0001 - discord
-https://discord.gg/pearls
-
-# Creds
-crym#0001
 https://discord.gg/pearls
