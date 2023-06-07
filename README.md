@@ -1,6 +1,7 @@
 # Yeat's Bloxflip Predictor
 
 GET HERE: https://discord.gg/yeats
+
 Bloxflip Predictor with 100% accuracy in these gamemodes:
 
 Mines, crash, towers, roulette 
