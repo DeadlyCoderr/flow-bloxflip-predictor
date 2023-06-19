@@ -7,7 +7,7 @@ Bloxflip Predictor written in Batch using customtkinter and hiddenselenium
 Very high accuracy (>85%) in mines, crash, etc. 
 
 **HOW TO USE:**
-1. Download and run predictor.bat
+1. Download and run predictor.exe
 
 2. Wait for the prompt that says "Looking for Bloxflip instance" and then open the Bloxflip website. The predictor will automatically find your browser window and launch the GUI.
 
