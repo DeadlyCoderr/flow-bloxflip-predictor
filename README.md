@@ -1,7 +1,5 @@
 # Yeat's Bloxflip Predictor
 
-https://discord.gg/malware
-
 Bloxflip Predictor written in Batch using customtkinter and hiddenselenium
 
 Very high accuracy (>85%) in mines, crash, etc. 
