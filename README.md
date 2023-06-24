@@ -2,6 +2,8 @@
 
 Bloxflip Predictor written in Batch using customtkinter and hiddenselenium
 
+https://discord.gg/daddyderek
+
 Very high accuracy (>85%) in mines, crash, etc. 
 
 **HOW TO USE:**
